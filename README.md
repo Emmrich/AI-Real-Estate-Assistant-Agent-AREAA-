@@ -1,7 +1,7 @@
 <h1>🏗️🤖 AI Real Estate Assistant Agent – (AREAA)</h1>
 Revolutionizing real estate project management, investor engagement, and property showcase automation with conversational AI.
 
- ### [Interact with ARERAA](https://emmrich.github.io/areaa-website/)
+ ### [Interact with AREAA](https://emmrich.github.io/areaa-website/)
 
 ---
 
@@ -100,14 +100,6 @@ AREAA follows a strict behavior and compliance policy:
 
 ---
 
-## 🧰 Tech Stack
-- **Voiceflow** – Conversation logic & AI design  
-- **OpenAI API** – Natural language reasoning  
-- **Airtable / HubSpot** – CRM & lead storage  
-- **Custom REST APIs** – Project and property data integration  
-- **HTML / JS Widget** – Website embedding  
-
----
 
 ## 🧪 Example Use Cases
 - 🏗️ Developers managing multiple housing or commercial projects.  
@@ -117,26 +109,11 @@ AREAA follows a strict behavior and compliance policy:
 
 ---
 
-## 🚀 Future Enhancements
-- Integration with real-time construction progress dashboards.  
-- AI-generated property reports for investors.  
-- Voice interaction for showroom kiosks.  
-- Multi-language support (English, French, Yoruba, Arabic).  
 
----
 
-## 🏷️ Tags & Metadata
-**GitHub Tagline:**  
-> “Your intelligent real estate developer’s assistant — automating investor engagement and project communication.”  
 
-**Suggested Tags:**  
-`#AI-Agent` `#Voiceflow` `#OpenAI` `#RealEstateTech` `#PropTech` `#Automation` `#AREAA` `#PropertyDevelopment`  
 
----
 
-## 📜 License
-This project is developed and maintained by **Trending Computing Solutions Ltd.**  
-© 2025 — All Rights Reserved.
 
 
 <br />
